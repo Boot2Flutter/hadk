@@ -1,2 +1,2 @@
 # HADK
-HADK 是 Hardware Adaptation Development Kit的缩写,封装Android Native Framework的能力,提供给开发者使用
+HADK is Hardware Adaptation Development Kit,which wrapper Android Native Framework without any java code
